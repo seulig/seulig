@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 ### IceCube OMSim
 - **Project**: [icecube/OMSim](https://github.com/icecube/OMSim)
 - **Contribution**: [Add WavePID simulation study with photon origin tracking](https://github.com/icecube/OMSim/pull/23)
-- **Description**: Extended the OMSim framework with per-photon origin tracking to analyze photon arrival time distributions from different particle types in IceCube optical modules.
+- **Description**: Extended the OMSim framework with per-photon origin tracking to analyze photon arrival time distributions from different particle types in IceCube optical modules. Embeds into the original framework, can use multithreading, and can be packaged into a container to submit to HPC.
 - **Status**: ✅ Merged
 - **Technologies**: C++, Geant4
 
